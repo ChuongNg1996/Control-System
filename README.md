@@ -8,6 +8,10 @@
 * For example, feedback linearization on a tank:
 
 
+<p align="center">
+  <img  src="images/fb_lin_tank.png">
+</p>
+
 
 
 
