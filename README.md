@@ -13,8 +13,10 @@
 </p>
 
 ## Sliding Mode Control
-### Adaptive SMC + RBFNN
-#### Paper #1: DOI: 10.1109/ACCESS.2020.2977609 - (2020) - Adaptive Sliding Mode Control Design for Nonlinear Unmanned Surface Vessel Using RBFNN and Disturbance-Observer
+
+### Paper #1: DOI: 10.1109/ACCESS.2020.2977609 - (2020) - Adaptive Sliding Mode Control Design for Nonlinear Unmanned Surface Vessel Using RBFNN and Disturbance-Observer
+* Adaptive SMC + RBFNN + Disturbance Observer.
+* 
 
 
 
