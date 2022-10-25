@@ -18,6 +18,7 @@
 <p align="center">
   <img  src="images/cybershipII_nonlin_ASMC_RBFNN_1.png">
 </p>
+
 * Adaptive SMC + RBFNN + Disturbance Observer.
 * Control Law: tau = -R'(rho+Kv.s+xi.sat+dmhat+dshat) . Where: reaching law = Kv.s+xi.sat, sliding law = the rest.
 
