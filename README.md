@@ -15,8 +15,11 @@
 ## Sliding Mode Control
 
 ### Paper #1: DOI: 10.1109/ACCESS.2020.2977609 - (2020) - Adaptive Sliding Mode Control Design for Nonlinear Unmanned Surface Vessel Using RBFNN and Disturbance-Observer
+<p align="center">
+  <img  src="images/cybershipII_nonlin_ASMC_RBFNN_1.png">
+</p>
 * Adaptive SMC + RBFNN + Disturbance Observer.
-* 
+* Control Law: tau = -R'(rho+Kv.s+xi.sat+dmhat+dshat) . Where: reaching law = Kv.s+xi.sat, sliding law = the rest.
 
 
 
