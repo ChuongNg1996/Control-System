@@ -12,6 +12,9 @@
   <img  src="images/fb_lin_tank.png">
 </p>
 
+## Sliding Mode Control
+### Adaptive SMC + RBFNN
+#### Paper #1
 
 
 
